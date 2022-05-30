@@ -33,6 +33,8 @@ Todo App is a Flutter project with some informations below:
 - Screenshots:
 
 * iOS
+
+<img src="image/whatsapp.gif" height="300em" /><img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/1-ios.png" height="300em" /><img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/2-ios.png" height="300em" />
 ![](https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/1-ios.png)
 ![](https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/2-ios.png)
 ![](https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/3-ios.png)
