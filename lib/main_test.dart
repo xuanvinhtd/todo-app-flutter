@@ -1,0 +1,24 @@
+import 'dart:io';
+
+import 'package:flutter/material.dart';
+import 'package:getx_todo/main.dart';
+import 'package:getx_todo/src/app/app_orientation.dart';
+import 'package:getx_todo/src/app/config/app_config.dart';
+import 'package:getx_todo/src/app/dependency_injection.dart';
+// import 'package:flutter_driver/driver_extension.dart';
+
+void main() async {
+  HttpOverrides.global = MyHttpOverrides();
+  WidgetsFlutterBinding.ensureInitialized();
+  AppOrientation.setOrientationPortrait();
+  await DependencyInjection.init();
+  // enableFlutterDriverExtension();
+  runApp(App(appConfig: AppConfig.dev(isTestMode: true)));
+}
+
+class MyHttpOverrides extends HttpOverrides {
+  @override
+  HttpClient createHttpClient(SecurityContext? context) {
+    return super.createHttpClient(context)..badCertificateCallback = (X509Certificate cert, String host, int port) => true;
+  }
+}

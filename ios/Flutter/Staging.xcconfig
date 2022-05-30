@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.release-stg.xcconfig"
+#include "Generated.xcconfig"
+
+APP_BUNDLE_ID = com.example.getx_todo.stg
+APP_NAME = [Stg] Getx TODO
+FLUTTER_BUILD_MODE = release
+FLUTTER_TARGET=lib/main_stg.dart

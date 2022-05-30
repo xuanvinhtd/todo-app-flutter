@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+APP_BUNDLE_ID = com.example.getx_todo.dev
+APP_NAME = [Dev] Getx TODO
+FLUTTER_BUILD_MODE = debug
+FLUTTER_TARGET=lib/main_dev.dart
