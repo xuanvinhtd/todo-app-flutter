@@ -32,6 +32,11 @@ Todo App is a Flutter project with some informations below:
 
 - Screenshots:
 
+* iOS
+![](https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/1-ios.png)
+![](https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/2-ios.png)
+![](https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/3-ios.png)
+
 - Video demo - [Reference]()
 
 # Setup environment
