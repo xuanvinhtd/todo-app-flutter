@@ -36,8 +36,21 @@ Todo App is a Flutter project with some informations below:
 
 <img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/1-ios.png" height="300em" />   <img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/2-ios.png" height="300em" />    <img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/3-ios.png" height="300em" />
 
+* Android
+
+<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/1-adr.png" height="300em" />   <img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/3-adr.png" height="300em" />    <img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/4-adr.png" height="300em" />      <img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/5-adr.png" height="300em" />
+
 
 - Video demo - [Reference]()
+
+* iOS
+
+<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/ios_demo.gif" height="300em" />
+
+* Android
+
+<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/ad_demo.gif" height="300em" />
+
 
 # Setup environment
 - Required run app:
