@@ -45,11 +45,11 @@ Todo App is a Flutter project with some informations below:
 
 * iOS
 
-<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/ios_demo.gif" height="300em" />
+<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/ios/ios_demo.gif" height="600em" />
 
 * Android
 
-<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/ad_demo.gif" height="300em" />
+<img src="https://github.com/xuanvinhtd/todo-app-flutter/blob/main/screenshots/android/ad_demo.gif" height="600em" />
 
 
 # Setup environment
